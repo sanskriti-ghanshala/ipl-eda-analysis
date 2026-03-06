@@ -75,4 +75,3 @@ This project demonstrates how **Exploratory Data Analysis (EDA)** can be applied
 
 
 
-## 📂 Project Structure
